@@ -7,4 +7,9 @@ has_children: false
 
 ## Home Page
 
-This page is the home page for the DLRS documentation and will have some information...
+Header: CTA to Join the Trailblazer Community
+
+1. Meet “Delores”
+2. DLRS User/Builder Personas
+3. Storytelling
+4. Community Built and Community Supported (not a Salesforce-owned product)
