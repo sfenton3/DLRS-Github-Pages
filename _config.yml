@@ -1,12 +1,9 @@
 title: Declarative Lookup Rollup Summaries
 description: Information about DLRS admin usage and technical setup
-timezone: America/Boston
+# timezone: America/Boston
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://sfdo-community-sprints.GitHub.io" # the base hostname & protocol for your site, e.g. http://example.com
-aux_links:
-  "SFDO Open Source Commons on GitHub":
-    - "//github.com/SFDO-Community-Sprints/sfdo-community-sprints.github.io/"
+baseurl: "/test" # the subpath of your site, e.g. /blog
+url: "https://sfenton3.GitHub.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Information on theme https://just-the-docs.GitHub.io/just-the-docs/
 remote_theme: just-the-docs/just-the-docs
