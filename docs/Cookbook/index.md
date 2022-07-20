@@ -1,10 +1,3 @@
----
-layout: default
-title: Cookbook
-nav_order: 2
-has_children: true
----
-
 # How to Use This Cookbook
 
 ## Read the whole recipe
