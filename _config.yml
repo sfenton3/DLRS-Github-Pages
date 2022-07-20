@@ -2,7 +2,7 @@ title: Declarative Lookup Rollup Summaries
 description: Information about DLRS admin usage and technical setup
 # timezone: America/Boston
 
-baseurl: "/test" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sfenton3.GitHub.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Information on theme https://just-the-docs.GitHub.io/just-the-docs/
@@ -15,23 +15,7 @@ color_scheme: light
 logo: "/assets/images/dlrs-badge.png"
 
 permalink: pretty
-exclude:
-  [
-    "node_modules/",
-    "*.gemspec",
-    "*.gem",
-    "Gemfile",
-    "Gemfile.lock",
-    "package.json",
-    "package-lock.json",
-    "script/",
-    "LICENSE.txt",
-    "lib/",
-    "bin/",
-    "README.md",
-    "Rakefile",
-    "docs/tests/",
-  ]
+
 
 # Enable or disable the site search
 # Supports true (default) or false
