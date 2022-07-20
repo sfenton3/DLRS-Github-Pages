@@ -15,7 +15,7 @@ aux_links_new_tab: true
 heading_anchors: true
 
 # Search Settings
-search_enabled: false
+search_enabled: true
 ########################################################
 
 # Replaces title if used
