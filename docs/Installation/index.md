@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Page
+title: Installation
 nav_order: 2
 has_children: false
 ---
