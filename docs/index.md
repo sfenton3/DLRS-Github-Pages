@@ -2,6 +2,7 @@
 layout: default
 title: Home Page
 nav_order: 1
+has_children: false
 ---
 
 ## Home Page
