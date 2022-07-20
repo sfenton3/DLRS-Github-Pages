@@ -14,6 +14,9 @@ aux_links_new_tab: true
 # Supports true (default) or false
 heading_anchors: true
 
+#Footer
+footer_content: "Declarative Lookup Roll-Up Summaries is a tool built and maintained by a community of volunteers through the Open Source Commons program. This is not a Salesforce-owned product. If you need support, go to the Trailblazer Community Group. "
+
 # Search Settings
 search_enabled: false
 ########################################################
