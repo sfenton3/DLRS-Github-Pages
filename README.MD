@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
+## Draft for DLRS Github Pages
 
-Test
-Test
+Click the link in the about section to open the Github pages website.
