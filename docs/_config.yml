@@ -1,4 +1,5 @@
-title: "Remote theme example"
+title: "Declarative Lookup Rollup Summaries"
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "light"
+
 search_enabled: false
