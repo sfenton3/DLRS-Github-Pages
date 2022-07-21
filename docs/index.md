@@ -9,7 +9,7 @@ has_children: false
 
 Join the trailblaizer community for DLRS support and updates
 
-[DLRS](http://example.com/){: .btn .btn-green }
+[Join the DLRS Trailblaizer Community - Today!](https://trailhead.salesforce.com/trailblazer-community/groups/0F9300000009O5pCAE){: .btn .btn-green }
 
 1. Meet “Delores”
 2. DLRS User/Builder Personas
