@@ -8,7 +8,7 @@ has_children: false
 
 # Code Contribution Guidelines
 
-> Firstly, thank you for your support in contributing to DLRS!
+Firstly, thank you for your support in contributing to DLRS!
 
 Here are some simple guidelines we ask you to follow
 
