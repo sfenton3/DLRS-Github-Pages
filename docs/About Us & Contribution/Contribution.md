@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code Contribution Guidelines
-nav_order: 6
+nav_order: 1
 parent: About Us & Contribution
 has_children: false
 ---
