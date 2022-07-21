@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Having Issues?
+title: Issues/FAQ
 nav_order: 4
 has_children: true
 ---
