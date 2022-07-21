@@ -5,6 +5,9 @@ nav_order: 7
 has_children: false
 ---
 
+New Version Pending
+{: .label .label-yellow }
+
 ## Packaged Release History
 
 **Next Release Version 2.16**
@@ -14,6 +17,9 @@ has_children: false
 Release Notes pending
 
 Install DLRS 2.16 into your production, sandbox, or scratch org via [Salesforce.org MetaDeploy](#).
+
+Stable Release
+{: .label .label-green }
 
 **Latest Release Version 2.15**
 

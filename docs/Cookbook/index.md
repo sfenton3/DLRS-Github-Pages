@@ -5,6 +5,9 @@ nav_order: 3
 has_children: true
 ---
 
+Needs Content
+{: .label .label-red }
+
 # How to Use This Cookbook
 
 ## Read the whole recipe

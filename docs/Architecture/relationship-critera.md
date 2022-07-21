@@ -6,7 +6,7 @@ parent: Architecture
 has_children: false
 ---
 
-Content
+Needs Content
 {: .label .label-red }
 
 (This page is under construction)

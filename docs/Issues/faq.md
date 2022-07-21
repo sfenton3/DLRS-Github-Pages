@@ -6,6 +6,9 @@ parent: Having Issues?
 has_children: false
 ---
 
+Needs Content
+{: .label .label-red }
+
 # Frequent Asked Questions
 
 ## Why do I need to allow Metadata API in remote site settings?
