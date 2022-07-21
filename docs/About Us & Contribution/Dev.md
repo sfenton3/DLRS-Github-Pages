@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code Contribution Guidelines
+title: Developer Setup
 nav_order: 2
 parent: About Us & Contribution
 has_children: false
