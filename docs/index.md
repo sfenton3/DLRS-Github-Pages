@@ -9,7 +9,7 @@ has_children: false
 
 # Getting Started
 
-What do I put here?
+[NEEDS CONTENT]
 
 ## Features Summary
 
