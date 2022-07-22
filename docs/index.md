@@ -9,7 +9,15 @@ has_children: false
 
 # What is Declarative Lookup Rollup Summaries?
 
-[NEEDS CONTENT]
+DLRS is a mechanism for aggregating or summarizing data from child objects and displaying it on a parent object. It serves the same purpose as Rollup Summary fields, but it is much more flexible with the kind of data that can be rolled up and how criteria are formed.
+
+## What business problems does DLRS solve?
+
+In Salesforce, there are “Rollup Summary Fields” that exist as standard fields in your instance and allow you to calculate metrics on a related list record (child object) and then show that value on the parent object. The business problem solved here is generally the ability to create a key metric or “summary” of a calculated value on a field in your Salesforce instance. Some examples may be Total Closed Won Amount.
+
+There is a limit to how many “RUS” fields that Salesforce permits you to create. With DLRS - there is no such limit - you can create as many of them as needed.
+
+Additionally - the metrics available with RUS fields - are limited to sum, minimum value, or maximum value as a calculated metric. There are extended “Operations” that can be performed with DLRS.
 
 ## Features Summary
 
