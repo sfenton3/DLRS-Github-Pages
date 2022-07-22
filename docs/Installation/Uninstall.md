@@ -6,7 +6,7 @@ parent: Installation
 has_children: false
 ---
 
-# Uninstalling the package - Page 2
+# Uninstalling the package
 
 Triggers installed by DLRS can be removed by navigating to the Manage Lookup Rollup Summaries tab in the App. There is a Manage Child Trigger button on that page. If you click it, on the bottom of the screen is a "Remove" button that will remove the generated code from the org. This is generally limited to the Child Object associated with the DLRS configuration.
 
