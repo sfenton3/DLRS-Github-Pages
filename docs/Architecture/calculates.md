@@ -6,6 +6,9 @@ parent: Architecture
 has_children: false
 ---
 
+Needs Review
+{: .label .label-yellow }
+
 # Understanding when DLRS Calculates
 
 Understanding when DLRS calculates and how to set your rollups for most effective use is not as simple as it might seem at first glance. In fact, I was misunderstanding some of the finer distinctions for several years. Therefore, I present this summary to help the community:
