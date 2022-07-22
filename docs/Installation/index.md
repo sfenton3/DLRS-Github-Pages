@@ -5,6 +5,9 @@ nav_order: 2
 has_children: true
 ---
 
+Needs Content
+{: .label .label-red }
+
 # Installation
 
 Install the latest version of DLRS into your production, sandbox, or scratch org via :
