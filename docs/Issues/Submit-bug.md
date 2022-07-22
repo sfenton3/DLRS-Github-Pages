@@ -6,6 +6,8 @@ parent: Issues/FAQ
 has_children: false
 ---
 
+[Join the DLRS Trailblaizer Community - Today!](https://trailhead.salesforce.com/trailblazer-community/groups/0F9300000009O5pCAE){: .btn .btn-green }
+
 # Issues and Bug Reporting
 
 Before raising an issue with github please check the resources below. We have a very active and helpful Chatter community around DLRS - feel free to ask a question in the community group. This github wiki has a FAQ section with common DLRS questions and answers.
