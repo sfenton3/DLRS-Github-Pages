@@ -5,7 +5,7 @@ nav_order: 7
 has_children: false
 ---
 
-## Packaged Release History
+# Packaged Release History
 
 New Version Pending
 {: .label .label-yellow }

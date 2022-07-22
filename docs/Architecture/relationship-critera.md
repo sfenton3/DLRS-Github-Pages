@@ -9,6 +9,8 @@ has_children: false
 Needs Content
 {: .label .label-red }
 
+# How to Construct Relationship Criteria (SOQL Queries)
+
 (This page is under construction)
 You can write any where clause that's valid into the tool. A good way to play around with how to create multiple criteria is to use the Query tool in the Workbench (https://workbench.developerforce.com/query.php). You'll see a section called "Filter results by:" where you can create some conditions and see the WHERE clause that's generated from that.
 
