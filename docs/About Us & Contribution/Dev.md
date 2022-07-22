@@ -20,12 +20,12 @@ It's easy:
 
 1. Clone this repo  
    A. If using windows: LF normalize "MetadataService.cls","MetadataServiceTest.cls"  
-   &nbsp;Ex: In VS code you can change the file from "CRLF" to "LF" within the program settings.
+   &nbsp;Ex: In VS code you can change the file from `CRLF` to `LF` within the program settings.
 2. run `npm ci` - this will ensure our code formatting rules apply (via Prettier), and installs packages from the package-lock.json file
 3. create a _new branch_ from `main`, all branches must start with `feature/`, e.g. `feature/newSetupUX`(use a descriptive name)
 4. Deploy code to a Scratch Org via CCI or DX  
     A. If using SFDX: append the scratch org creation command with "--nonamespace"  
-   &nbsp;Ex: sfdx force:org:create -f orgs/feature.json --nonamespace -a myTestOrgAlias
+   &nbsp;Ex: `sfdx force:org:create -f orgs/feature.json --nonamespace -a myTestOrgAlias`
 5. Work on it
 
 When done:
