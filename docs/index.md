@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Home
+title: Getting Started
 nav_order: 1
 has_children: false
 ---
 
 [Join the DLRS Trailblaizer Community - Today!](https://trailhead.salesforce.com/trailblazer-community/groups/0F9300000009O5pCAE){: .btn .btn-green }
 
-# Getting Started
+# What is Declarative Lookup Rollup Summaries?
 
 [NEEDS CONTENT]
 
