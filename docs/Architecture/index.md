@@ -5,6 +5,6 @@ nav_order: 5
 has_children: true
 ---
 
-## Placeholder
+## Knowledge articles about DLRS Architecture
 
-Test
+Each subpage contains knowledge articles about DLRS architecure.
