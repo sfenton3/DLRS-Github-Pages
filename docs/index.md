@@ -7,7 +7,9 @@ has_children: false
 
 [Join the DLRS Trailblaizer Community - Today!](https://trailhead.salesforce.com/trailblazer-community/groups/0F9300000009O5pCAE){: .btn .btn-green }
 
-## Getting Started
+# Getting Started
+
+What do I put here?
 
 ## Features Summary
 

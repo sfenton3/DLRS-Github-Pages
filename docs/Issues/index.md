@@ -5,12 +5,6 @@ nav_order: 4
 has_children: true
 ---
 
-## Having Issues ?
+# Issues Home
 
-FAQ
-Troubleshoot
-Submit a bug/feature
-Challenges with Code Coverage
-Common Errors
-DLRS Resources
--Common Formula Errors
+What do I put here?
