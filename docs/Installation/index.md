@@ -8,7 +8,7 @@ has_children: true
 # Installation
 
 Install the latest version of DLRS into your production, sandbox, or scratch org via :
-<br/><br/><br/>
+<br/><br/>
 [Salesforce.org MetaDeploy](https://install.salesforce.org/products/dlrs/latest){: .btn .btn-blue }
 <br/>
 
