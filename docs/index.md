@@ -23,6 +23,7 @@ has_children: false
 
 ## Follow the DLRS Journey
 
+<br/>
 **NOTE:** The links are in chronological order, if your new to the tool, read from the bottom upwards
 
 - [Declarative Rollup Summary Tool Update for v2.12](https://andyinthecloud.com/2020/04/05/declarative-rollup-summary-tool-update/)
