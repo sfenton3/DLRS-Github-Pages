@@ -7,7 +7,10 @@ has_children: true
 
 # Installation
 
-Install the latest version of DLRS into your production, sandbox, or scratch org via <br/> [Salesforce.org MetaDeploy](https://install.salesforce.org/products/dlrs/latest){: .btn .btn-blue }
+Install the latest version of DLRS into your production, sandbox, or scratch org via :
+<br/>
+[Salesforce.org MetaDeploy](https://install.salesforce.org/products/dlrs/latest){: .btn .btn-blue }
+<br/>
 
 Here is the App and Objects that are installed. You can see there are two permission sets that can be used to give access.
 ![Installed Components](https://raw.githubusercontent.com/wiki/afawcett/declarative-lookup-rollup-summaries/images/InstalledComponents.PNG)
