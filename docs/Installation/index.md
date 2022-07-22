@@ -5,15 +5,25 @@ nav_order: 2
 has_children: false
 ---
 
-# How to Install DLRS - Page 1
+# Installation
 
-1. Installation instructions
-2. Uninstall instructions
+Install the latest version of DLRS into your production, sandbox, or scratch org via [Salesforce.org MetaDeploy](https://install.salesforce.org/products/dlrs/latest).
 
-# Uninstalling the package - Page 2
+Here is the App and Objects that are installed. You can see there are two permission sets that can be used to give access.
+![Installed Components](https://raw.githubusercontent.com/wiki/afawcett/declarative-lookup-rollup-summaries/images/InstalledComponents.PNG)
 
-Triggers installed by DLRS can be removed by navigating to the Manage Lookup Rollup Summaries tab in the App. There is a Manage Child Trigger button on that page. If you click it, on the bottom of the screen is a "Remove" button that will remove the generated code from the org. This is generally limited to the Child Object associated with the DLRS configuration.
+## Permissions
 
-If you already deleted the DLRS configuration, it is usually enough to create another one with minimal fields configured as long as it is on the same child object. From there you can use Manage Child Trigger to ask DLRS to clear out the Apex for you.
+You can install the package for Admins only and open up permissions for all users/profiles with the options below or install for all users.
 
-If none of that works for whatever reason then you have to build a destructivechanges.xml deployment. Or using VSCode IDE or Setup > Apex Classes and Apex Tiggers UI to delete manually.
+![Install for Admins](https://raw.githubusercontent.com/wiki/afawcett/declarative-lookup-rollup-summaries/images/Install-Admins-Only.PNG)
+
+There are two types of DLRS Users:
+
+### Admin
+
+Kind of a tool admin user that both configures and activates the rollups (this has to be an admin to deploy and manage the trigger for example). This user also needs full read/write access to all the objects in the package.
+
+### User
+
+Then there is the users that don't directly use the tool, but indirectly invoke its rollups. These users need read access to all the objects in the package. You don't however need to give them access to the app, tabs or Visualforce pages for example since they don't need to be able to access the tools admin UI.
