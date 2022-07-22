@@ -11,7 +11,7 @@ Needs Review
 
 # Do you have a Cookbook Recipe you would like to contribute?
 
-Fill out this template and submit [here](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries).
+Fill out this template and submit [here](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries). You can see example cookbook recipes [here](/Cookbook/Affiliations,-Relationships,-Accounts,-Contacts).
 
 **Description** (required)
 
