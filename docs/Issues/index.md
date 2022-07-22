@@ -7,4 +7,4 @@ has_children: true
 
 # Issues Home
 
-What do I put here?
+[NEEDS CONTENT]
