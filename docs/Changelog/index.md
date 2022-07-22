@@ -5,14 +5,12 @@ nav_order: 7
 has_children: false
 ---
 
+## Packaged Release History
+
 New Version Pending
 {: .label .label-yellow }
 
-## Packaged Release History
-
-**Next Release Version 2.16**
-
----
+## **Next Release Version 2.16**
 
 Release Notes pending
 
