@@ -6,7 +6,8 @@ parent: Architecture
 has_children: false
 ---
 
-Needs Content{: .label .label-red } Needs Review{: .label .label-yellow }
+Needs Content{: .label .label-red }
+Needs Review{: .label .label-yellow }
 
 # How to Construct Relationship Criteria (SOQL Queries)
 
