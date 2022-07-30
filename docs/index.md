@@ -32,6 +32,13 @@ Additionally - the metrics available with RUS fields - are limited to sum, minim
 - Managed package has passed Salesforce Security Review and is Aloha enabled
 - Supports Custom Metadata, rollups can be included in Change Sets and Packages for easier deployment
 
+## DLRS Misconceptions
+
+- real-time trigger - set Lookup Rollup to `Realtime` Calculation Mode. [Info](https://sfenton3.github.io/DLRS-Github-Pages/Architecture/calculates.html)
+- Invocable from flow or PB - This is what allows DLRS to run in Professional Edition. [Info](https://sfenton3.github.io/DLRS-Github-Pages/Installation/configuration.html#implementation-considerations)
+- Scheduled full calculations - There is a button to schedule full calculations. [Info](https://sfenton3.github.io/DLRS-Github-Pages/Architecture/calculates.html)
+- Async trigger based calculations - This is a feature of `Scheduled` Calculation Mode. [Info](https://sfenton3.github.io/DLRS-Github-Pages/Architecture/calculates.html)
+
 ## Follow the DLRS Journey
 
 <br/>
