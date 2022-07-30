@@ -11,29 +11,4 @@ Needs Review
 
 # Do you have a Cookbook Recipe you would like to contribute?
 
-Fill out this template and submit [here](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries). You can see example cookbook recipes [here](/DLRS-Github-Pages/Cookbook/Affiliations,-Relationships,-Accounts,-Contacts).
-
-**Description** (required)
-
-**Objects, Fields, Relationships** (required)
-
-| Fields                             | Description |
-| ---------------------------------- | ----------- |
-| Parent Object                      |             |
-| Child Object                       |             |
-| Relationship Field                 |             |
-| Relationship Criteria (SOQL Query) |             |
-| Relationship Criteria Fields       |             |
-| Field to Aggregate                 |             |
-| Order By Field                     |             |
-| Aggregate Operation                |             |
-| Aggregate Result Field             |             |
-| Concatenate Delimiter              |             |
-| Calculation Mode                   |             |
-| Schedule vs Child Trigger          |             |
-
-**Preparation** (optional)
-
-**Variations** (optional)
-
-**Contributed By** (optional)
+Fill out this form and submit [here](https://docs.google.com/forms/d/e/1FAIpQLSc3DN1YwA0fTHTlWbF2xjy4sd_e3cuy_6vyoZoLOv586EQwfA/viewform). You can see example cookbook recipes [here](/DLRS-Github-Pages/Cookbook/Affiliations,-Relationships,-Accounts,-Contacts).

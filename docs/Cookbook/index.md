@@ -10,6 +10,14 @@ Needs Content
 
 # How to Use This Cookbook
 
+In this section you’ll find a collection of examples of how DLRS has been used to summarize data for common use cases.
+
+Just like a “kitchen” cookbook, we’ve laid out the ingredients and the steps you need to follow to make these rollup summaries for yourself. These rollup “recipes” have been tried and tested in Salesforce instances, and are shared here to provide inspiration for other users.
+
+The introduction below explains how the recipes are laid out, and the examples are grouped in sections around similar issues - see the links in the navigation sidebar. We hope you’ll find these helpful for your work!
+
+The DLRS Cookbook was started at an Open Source Community Sprint in October 2021 by a group of seasoned DLRS users who wanted to share examples of rollups that have worked well for them. This is just the beginning of the collection: please help us to expand the range of examples by contributing a recipe of your own, using this form (link to Google Form or contribution page).
+
 ## Read the whole recipe
 
 You can use the name and description of each recipe to decide if it will work for you, but please read the whole recipe before you try it out. Our template provides the information for each field and setting of a Lookup Rollup Summary (see the detailed list below). All recipes have been contributed by users of DLRS, and edited by our volunteer team, but we can’t guarantee that they will work perfectly in every organization. Please read the details carefully, and ask in the [Trailblazer Community](https://trailhead.salesforce.com/trailblazer-community/groups/0F9300000009O5pCAE?tab=discussion) if you have any questions.
