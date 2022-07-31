@@ -5,9 +5,6 @@ nav_order: 3
 has_children: true
 ---
 
-Needs Content
-{: .label .label-red }
-
 # How to Use This Cookbook
 
 In this section you’ll find a collection of examples of how DLRS has been used to summarize data for common use cases.
@@ -56,7 +53,7 @@ Often rollup summaries come in pairs, or groups: for example, if you calculate t
 
 ## Share your results!
 
-Please share your culinary creations! We hope to keep adding to this resource, so please send us your feedback and let us know if you have new recipe ideas. You’ll find us in the [DLRS Trailblazer Community group](https://trailhead.salesforce.com/trailblazer-community/groups/0F9300000009O5pCAE?tab=discussion)
+Please share your culinary creations! We hope to keep adding to this resource, so please send us your feedback and let us know if you have new [recipe ideas](https://sfenton3.github.io/DLRS-Github-Pages/About%20Us%20&%20Contribution/cookbook). You’ll find us in the [DLRS Trailblazer Community group](https://trailhead.salesforce.com/trailblazer-community/groups/0F9300000009O5pCAE?tab=discussion).
 
 # How to Read our Template
 
