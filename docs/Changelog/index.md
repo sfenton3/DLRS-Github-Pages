@@ -5,6 +5,11 @@ nav_order: 7
 has_children: false
 ---
 
+# Packaged Release History
+
+You can install a packaged version of the tool into your production org (sandbox testing as always recommended).
+
+<br/>
 **Latest Release Version 2.17**
 
 ---
