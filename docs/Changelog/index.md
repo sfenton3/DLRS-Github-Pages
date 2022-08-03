@@ -34,7 +34,7 @@ Install DLRS 2.16 into your production, sandbox, or scratch org via [Salesforce.
 - Bug - [Add global access modifier for NPSP](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries/pull/1180).
 
 <br/><br/>
-**Latest Release Version 2.15**
+**Release Version 2.15**
 
 ---
 
