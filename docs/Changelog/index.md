@@ -13,6 +13,7 @@ Install DLRS 2.17 into your production, sandbox, or scratch org via [Salesforce.
 
 - Bug - [New Wizard throwing error if picklist exceeds 1000 objects](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries/pull/1223)
 
+<br/><br/>
 **Version 2.16**
 
 ---
@@ -32,6 +33,7 @@ Install DLRS 2.16 into your production, sandbox, or scratch org via [Salesforce.
 - Bug - [Fixed missing namespace in trigger test code](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries/pull/1177).
 - Bug - [Add global access modifier for NPSP](https://github.com/SFDO-Community/declarative-lookup-rollup-summaries/pull/1180).
 
+<br/><br/>
 **Latest Release Version 2.15**
 
 ---
