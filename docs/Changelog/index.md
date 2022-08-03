@@ -45,6 +45,7 @@ Install DLRS 2.16 into your production, sandbox, or scratch org via [Salesforce.
 
 Install DLRS 2.15 into your production, sandbox, or scratch org via [Salesforce.org MetaDeploy](https://install.salesforce.org/products/dlrs/latest).
 
+<br/><br/>
 **Version 2.14**
 
 ---
@@ -53,6 +54,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 - Enhancement - Moved to API 51.0
 
+<br/><br/>
 **Release Version 2.13**
 
 ---
@@ -64,6 +66,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Enhancement - Added new [Wiki page](https://github.com/afawcett/declarative-lookup-rollup-summaries/wiki/Metadata-API-Connection-Issues-FAQ), linked from Welcome tab relating to various requirements and gotcha's on Metadata API connection issues
 - Bug - Optimizer tab would not show correctly if the user was not an Admin - now works for any user so long as they are assigned the Lookup Rollup Summary Configure permission set.
 
+<br/><br/>
 **Release Version 2.12**
 
 ---
@@ -84,6 +87,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 Also see [Declarative Rollup Summary Tool Update for v2.12](https://andyinthecloud.com/2020/04/05/declarative-rollup-summary-tool-update/).
 
+<br/><br/>
 **Release Version 2.11.1**
 
 ---
@@ -95,6 +99,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 **IMPORTANT NOTE:**
 The Cases DLRS Trigger will fail in Summer '19 if you do not upgrade to 2.11.1 until the related known issue is fixed by Salesforce. This only impacts users with the Case object DLRS Child Trigger created and active.
 
+<br/><br/>
 **Release Version 2.11**
 
 ---
@@ -107,6 +112,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Enhancement [Remote Settings update](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/372)
 - Enhancement [Lightning Enterprise Edition](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/569)
 
+<br/><br/>
 **Release Version 2.10**
 
 ---
@@ -122,6 +128,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 **UPGRADE NOTE:** If you access the Rollup definitions via the standard Salesforce Custom Metadata UI under the Setup menu. Make sure to remove 'Test Code (Deprecated)' (small one) from the layout and add the new 'Test Code' field (large one). If you only ever use the Manage Rollup Summaries tab you do not need to worry about this. Also note that any test code placed in the original smaller field will be automatically migrated to the new field on next edit (via Manage Rollup Summaries tab).
 
+<br/><br/>
 **Release Version 2.9**
 
 ---
@@ -143,6 +150,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Please check your Rollup Calculate Job records and if needed (no jobs are actually running) delete them.
 - There is a new Delete Log button on the Summary Logs List View layout please add it
 
+<br/><br/>
 **Release Version 2.8**
 
 ---
@@ -157,6 +165,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 **IMPORTANT NOTE:** Please check your Rollup Calculate Job records and if needed delete them.
 
+<br/><br/>
 **Release Version 2.7**
 
 ---
@@ -165,6 +174,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 - Bug [Validation Errors 'ENTITY_IS_DELETED' While Saving when Parent gets Deleted As Well](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/39)
 
+<br/><br/>
 **Release Version 2.6**
 
 ---
@@ -175,6 +185,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Bug [Developer Script Exception : Entity is not api accessible](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/360)
 - Bug [Lookup Rollup Calculate Jobs not Case-sensitive](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/347)
 
+<br/><br/>
 **Release Version 2.5**
 
 ---
@@ -187,6 +198,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Bug [Merging lead causes Permission to create dlrs**LookupRollupSummary**c error](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/345)
 - Enhancement [Support ContentNote rollups (upgraded to API 37.0)](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/351)
 
+<br/><br/>
 **Release Version 2.4.2**
 
 ---
@@ -195,6 +207,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 - Bug [Install failed 2.4 update - New dependency on LookupChild's Sharing mode in Apex Unit Test](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/344)
 
+<br/><br/>
 **Release Version 2.4.1**
 
 ---
@@ -211,6 +224,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Enhancement [Open Activities still associated to the Converted Lead](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/164)
 - Enhancement [Remove from Lookup Rollup Summary Schedule Items when Parent is deleted](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/147)
 
+<br/><br/>
 **Version 2.3**
 
 ---
@@ -222,6 +236,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Bug [Calculation Id not populating in Version 2.1](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/280)
 - Bug [Validation Errors 'ENTITY_IS_DELETED' While Saving when Parent gets Deleted As Well](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/39)
 
+<br/><br/>
 **Version 2.2**
 
 ---
@@ -232,6 +247,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Enhancement [Add support for space & tab in concat delimiter](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/278) thanks to [jondavis9898](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues?q=is%3Aissue+is%3Aopen+author%3Ajondavis9898)
 - Enhancement [Multiple BR() for Concatenate](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/258)
 
+<br/><br/>
 **Version 2.1**
 
 ---
@@ -240,6 +256,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 - Bug [Manage Lookup Rollup Summaries produces error CurrencyIsoCode not valid](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/273)
 
+<br/><br/>
 **Version 2.0**
 
 ---
@@ -259,6 +276,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Description field is limited to only 255 characters (due to platform restriction)
 - List View support is available under Setup, Custom Metadata Types, Manage Records but does not invoke the new UI for editing
 
+<br/><br/>
 **Version 1.25**
 
 ---
@@ -276,6 +294,7 @@ This will show the following UI related to the enhancement above.
 
 ![New Calc Screen](https://raw.githubusercontent.com/afawcett/declarative-lookup-rollup-summaries/master/images/newscheduledcalc.png)
 
+<br/><br/>
 **Version 1.24**
 
 ---
@@ -288,6 +307,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 **IMPORTANT NOTE:** This release improves the query optimisation within the tool when there are multiple rollups. There is also a small change in behaviour from previous releases, relating to default ordering. If you have been using concat, first or last operations and have not specified explicit order by on the rollup, you must do from now on, it no longer defaults to the field to rollup. In prior releases the behaviour of this operation may or may not have been consistently working as expected, depending on the existence of one or more rollups.
 
+<br/><br/>
 **Version 1.23**
 
 ---
@@ -301,6 +321,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Bug fix for [Different order by on same relationship field results in incorrect result](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/222)
 - Bug fix for [Rollup Summary validations not being enforced on updates after fflib upgrade ](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/212)
 
+<br/><br/>
 **Version 1.22**
 
 ---
@@ -315,6 +336,7 @@ If you are upgrading, you will need to make the following changes to the Layout.
 
 - Add **Test Code See All Data** field to the layout
 
+<br/><br/>
 **Version 1.21**
 
 ---
@@ -331,6 +353,7 @@ If you are upgrading, you will need to make the following changes to the Layout.
 
 - Add **Test Code** field to the layout
 
+<br/><br/>
 **Version 1.20**
 
 ---
@@ -348,6 +371,7 @@ If you are upgrading, you will need to make the following changes to the Layout.
 
 ![Calculation Sharing Mode](https://cloud.githubusercontent.com/assets/1167760/7896771/29740d96-06bd-11e5-926f-a6fc402c85b1.png)
 
+<br/><br/>
 **Version 1.19**
 
 ---
@@ -358,6 +382,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Enhancement for [Improve trigger test deployment failure reporting when Code coverage error received](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/122)
 - Fix for [Currency Fields in the Rollup causing the issues - "Master and detail fields must be the same field type (or text based) for First or Last operations"](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/121)
 
+<br/><br/>
 **Version 1.18**
 
 ---
@@ -378,6 +403,7 @@ If you are upgrading, you will need to make the following changes to the Layout 
 - Add **Count Distinct**, **Concatenate**, **Concatenate Distinct**, **First** and **Last** picklist items to **Aggregate Operation**
 - Add **Process Builder** picklist item to **Calculation Mode**
 
+<br/><br/>
 **Version 1.17**
 
 ---
@@ -391,6 +417,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Fix for [Salesforce Standard Order object OpportunityID field not recognized](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/98)
 - Upgrade to API 32 (sees new Standard objects) related to attempted fix for [Error "Object does not exist" for CombinedAttachment](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/103)
 
+<br/><br/>
 **Version 1.16**
 
 ---
@@ -399,6 +426,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 - Fix for [RollupJob error: Cannot have more than 10 chunks in a single operation](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/51), thanks to [David Carter](https://github.com/dcarter).
 
+<br/><br/>
 **Version 1.15**
 
 ---
@@ -410,6 +438,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Fix for [Install error Version 1.12 - Requires Streaming API](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/86)
 - Fix for [Support installation without having to have Ideas enabled](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/33)
 
+<br/><br/>
 **Version 1.14**
 
 ---
@@ -420,6 +449,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Fix for [Only one rollup per field working at a time](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/63)
 - Fix for [Multiple rollups on same field fail to execute](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/85)
 
+<br/><br/>
 **Version 1.13**
 
 ---
@@ -428,6 +458,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 - Fix for [Apex Error Query Exception](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/83)
 
+<br/><br/>
 **Version 1.12**
 
 ---
@@ -438,6 +469,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 - Fix for [Currency Conversion?](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/57), special thanks to [Anthony Heber](https://github.com/aheber) for submitting the enhancement to [LREngine](https://github.com/abhinavguptas/Salesforce-Lookup-Rollup-Summaries) to fix this. The result of the child aggregation is converted to the parent record currency if the child field being aggregated is a Currency type and the org is using Multi-Currency. Note currently dated exchanged rates (available through Advanced Mulit-Currency) are currently not supported.
 
+<br/><br/>
 **Version 1.11**
 
 ---
@@ -446,6 +478,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 - Fix for [Issue Deploy Trigger not successful, with no error (due to code coverage being low)](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/54)
 
+<br/><br/>
 **Version 1.10**
 
 ---
@@ -455,6 +488,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Enhancement for [Issue 52 Auto Create Remote Site Setting](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/52)
 - Fix for [Issue 25 Error with Manage Child Trigger button for very long object names](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/25)
 
+<br/><br/>
 **Version 1.9 - Community Powered!**
 
 ---
@@ -472,12 +506,14 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 **KNOWN INSTALL ISSUE** There appears to be an install issue identified when installing into orgs without Ideas installed for v1.9, if you encourter this enable Ideas if you can, otherwise use v1.7 until the issue is resolved.
 
+<br/><br/>
 **Version 1.8**
 
 ---
 
 Not released
 
+<br/><br/>
 **Version 1.7**
 
 ---
@@ -486,6 +522,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 - Fix for [Issue 14](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/14), relating to null pointer exception
 
+<br/><br/>
 **Version 1.6 - Spring'14 Release - 9th February 2014**
 
 ---
@@ -496,6 +533,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 - Fix for [Issue 10](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/10)
 - Fix for [Issue 11](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/11)
 
+<br/><br/>
 **Version 1.5**
 
 ---
@@ -504,18 +542,21 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 
 - Fix for [Issue 7](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/7) and [Issue 8](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/8), relating to failure to report test execution errors in production org.
 
+<br/><br/>
 **Version 1.4**
 
 ---
 
 - Fix for [Issue 3](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/4), relating to issue when deleting last child record not updating rollup fields to 0.
 
+<br/><br/>
 **Version 1.3**
 
 ---
 
 - Fix for [Issue 2](https://github.com/afawcett/declarative-lookup-rollup-summaries/issues/2), relating to error 'purgeOnDelete option can only be used on a non-active org'
 
+<br/><br/>
 **Version 1.2**
 
 ---
@@ -528,6 +569,7 @@ Package [Production URL](https://login.salesforce.com/packaging/installPackage.a
 ![Upload](https://raw.githubusercontent.com/afawcett/declarative-lookup-rollup-summaries/master/images/PublisherConsole.png)
 ![Review Passed](https://raw.githubusercontent.com/afawcett/declarative-lookup-rollup-summaries/master/images/UploadedPackages.png)
 
+<br/><br/>
 **Version Beta 6**
 
 ---
