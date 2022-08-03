@@ -10,4 +10,3 @@ Click this [link](https://sfenton3.github.io/DLRS-Github-Pages/) to open draft w
 
 1. Replace Links with relative Links
 2. Add images to image folder
-3. Clean up changelog to look better
